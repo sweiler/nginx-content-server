@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="821.49445"
+   height="361.84988"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Neues Dokument 1">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3811"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3832"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3814"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="429.01318"
+     inkscape:cy="129.98108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1863"
+     inkscape:window-height="1056"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(86.244423,-53.556359)">
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="312.64282"
+       y="81.415115"
+       id="text2985"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="312.64282"
+         y="81.415115">nginx-content-server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="332.19873"
+       y="224.7886"
+       id="text2989"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="332.19873"
+         y="224.7886">nginx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="550.495"
+       y="146.34512"
+       id="text2993"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         x="550.495"
+         y="146.34512">ruby-app</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="22.521027"
+       y="125.17398"
+       id="text2997"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="22.521027"
+         y="125.17398">your app</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="26.064522"
+       y="300.53876"
+       id="text3001"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         x="26.064522"
+         y="300.53876"
+         id="tspan3005">user 1</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3009"
+       width="439.31943"
+       height="322.14178"
+       x="295.43436"
+       y="54.048172"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3779"
+       width="166.67517"
+       height="159.09903"
+       x="327.79449"
+       y="203.32896"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3781"
+       width="181.82745"
+       height="141.92644"
+       x="546.99762"
+       y="126.55737"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3783"
+       width="221.72849"
+       height="95.459419"
+       x="508.10672"
+       y="272.52441"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="513.15747"
+       y="292.22238"
+       id="text3785"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan3787"
+         x="513.15747"
+         y="292.22238">redis</tspan></text>
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3789"
+       width="21.213203"
+       height="12.121831"
+       x="284.86301"
+       y="96.757874"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3791"
+       width="25.253813"
+       height="12.626906"
+       x="283.85287"
+       y="250.80614"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="241.93155"
+       y="92.717262"
+       id="text3793"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan3795"
+         x="241.93155"
+         y="92.717262">:8080</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="263.14474"
+       y="244.74522"
+       id="text3797"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan3799"
+         x="263.14474"
+         y="244.74522">:80</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3801"
+       width="134.85536"
+       height="112.12693"
+       x="16.162441"
+       y="106.8594"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3803"
+       width="165.66504"
+       height="64.185684"
+       x="19.697975"
+       y="278.58533"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 23.571429,326.6479 c 0,0 -58.818975,-20.6539 -61.071429,-84.28572 -1.428571,-40.35714 53.214286,-74.28571 53.214286,-74.28571"
+       id="path3805"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-87.14286"
+       y="213.79076"
+       id="text4805"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan4807"
+         x="-87.14286"
+         y="213.79076">Step 1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 545.71429,155.21933 c 0,0 -199.94055,-51.75004 -247.85714,-50.89286 -70.35734,1.25864 -312.142864,76.60714 -310.714293,142.32143 0.714117,32.84938 31.428572,51.42857 31.428572,51.42857"
+       id="path4809"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="442.14285"
+       y="162.3622"
+       id="text5179"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         x="442.14285"
+         y="162.3622"
+         id="tspan5183">Step 4</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 151.42857,130.93361 c 0,0 56.61323,-31.67388 145,-32.14286 88.38677,-0.46898 250,50.71429 250,50.71429"
+       id="path5187"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="164.28571"
+       y="101.6479"
+       id="text5373"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         x="164.28571"
+         y="101.6479"
+         id="tspan5377">Step 2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 617.14286,219.50504 0,92.14286"
+       id="path5381"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="622.14288"
+       y="257.36218"
+       id="text6489"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan6491"
+         x="622.14288"
+         y="257.36218">Step 3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 184.28571,304.50504 c 0,0 20.00001,-47.85714 111.42858,-50.71428 91.42857,-2.85715 65.71428,36.42856 136.42857,10.71428 C 502.85714,238.79075 495,195.21932 545,192.36218"
+       id="path6493"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="192.85713"
+       y="257.36218"
+       id="text6679"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan6681"
+         x="192.85713"
+         y="257.36218">Step 5</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 547.85714,221.6479 431.42857,307.36218"
+       id="path6683"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="472.14285"
+       y="262.36218"
+       id="text6869"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan6871"
+         x="472.14285"
+         y="262.36218">Step 6</tspan></text>
+    <rect
+       y="350.72818"
+       x="19.697975"
+       height="64.185684"
+       width="165.66504"
+       id="rect6873"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6875"
+       y="371.25305"
+       x="26.064522"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         y="371.25305"
+         x="26.064522"
+         sodipodi:role="line"
+         id="tspan6879">user 2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="M 185.71429,368.79075 C 238.57143,329.74313 205,262.83838 297.85714,260.21933 c 75.68756,-2.13478 125,45.71428 125,45.71428"
+       id="path6883"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="229.28571"
+       y="308.79077"
+       id="text7813"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-xdpi="119.96429"
+       inkscape:export-ydpi="119.96429"><tspan
+         sodipodi:role="line"
+         id="tspan7815"
+         x="229.28571"
+         y="308.79077">Step 7</tspan></text>
+  </g>
+</svg>
