@@ -45,7 +45,7 @@ class AdminPort < Sinatra::Base
     filename_obfuscation = Helper.generate_token + extension
     filename = params[:filename] + '#' + filename_obfuscation
     r.set "files:#{filename}", token
-    answer = {:ok => true, :uri => "/upload/#{params[:filename]}/#{filename_obfuscation}", :token => token}
+    answer = {:ok => true, :uri => "/#{params[:filename]}/#{filename_obfuscation}", :token => token}
     return (JSON.generate answer) + "\n"
 
 	end
