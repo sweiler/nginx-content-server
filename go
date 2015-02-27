@@ -32,7 +32,7 @@ class GoScript < Thor
     end
     
     launch_redis
-    exists_container = `docker ps -a | awk '{print $2}' | grep 'uucs-web'`.strip
+    exists_container = `docker ps -a | awk '{print $2}' | grep 'sweiler/uucs'`.strip
     if exists_container.length > 10
       simple_start = `docker start uucs-web`
       if $?.success?
@@ -48,7 +48,7 @@ class GoScript < Thor
       id = `docker run -d -p 8080:8080 -p 8081:80 --name uucs-web --link uucs-redis:redis -i sweiler/uucs`
     end
     
-    puts '[OK] Server started, created a new container.'
+    puts '[OK]  Server started, created a new container.'
   end
   
   desc 'stop [--redis]', 'Stops the server.'
