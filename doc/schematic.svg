@@ -106,13 +106,13 @@
        y="81.415115"
        id="text2985"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
          id="tspan2987"
          x="312.64282"
-         y="81.415115">nginx-content-server</tspan></text>
+         y="81.415115">uucs</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -120,7 +120,7 @@
        y="224.7886"
        id="text2989"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -134,7 +134,7 @@
        y="146.34512"
        id="text2993"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -148,7 +148,7 @@
        y="125.17398"
        id="text2997"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -162,7 +162,7 @@
        y="300.53876"
        id="text3001"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -176,7 +176,7 @@
        height="322.14178"
        x="295.43436"
        y="54.048172"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <rect
@@ -186,7 +186,7 @@
        height="159.09903"
        x="327.79449"
        y="203.32896"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <rect
@@ -196,7 +196,7 @@
        height="141.92644"
        x="546.99762"
        y="126.55737"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <rect
@@ -206,7 +206,7 @@
        height="95.459419"
        x="508.10672"
        y="272.52441"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -216,7 +216,7 @@
        y="292.22238"
        id="text3785"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -230,7 +230,7 @@
        height="12.121831"
        x="284.86301"
        y="96.757874"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <rect
@@ -240,7 +240,7 @@
        height="12.626906"
        x="283.85287"
        y="250.80614"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -250,7 +250,7 @@
        y="92.717262"
        id="text3793"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -264,7 +264,7 @@
        y="244.74522"
        id="text3797"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -278,7 +278,7 @@
        height="112.12693"
        x="16.162441"
        y="106.8594"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <rect
@@ -288,7 +288,7 @@
        height="64.185684"
        x="19.697975"
        y="278.58533"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <path
@@ -297,7 +297,7 @@
        id="path3805"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -307,7 +307,7 @@
        y="213.79076"
        id="text4805"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -320,7 +320,7 @@
        id="path4809"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -330,7 +330,7 @@
        y="162.3622"
        id="text5179"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -343,7 +343,7 @@
        id="path5187"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czc"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -353,7 +353,7 @@
        y="101.6479"
        id="text5373"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -365,7 +365,7 @@
        d="m 617.14286,219.50504 0,92.14286"
        id="path5381"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -375,7 +375,7 @@
        y="257.36218"
        id="text6489"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -388,7 +388,7 @@
        id="path6493"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -398,7 +398,7 @@
        y="257.36218"
        id="text6679"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -410,7 +410,7 @@
        d="M 547.85714,221.6479 431.42857,307.36218"
        id="path6683"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -420,7 +420,7 @@
        y="262.36218"
        id="text6869"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
@@ -434,7 +434,7 @@
        width="165.66504"
        id="rect6873"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -444,7 +444,7 @@
        x="26.064522"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          y="371.25305"
@@ -457,7 +457,7 @@
        id="path6883"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429" />
     <text
@@ -467,7 +467,7 @@
        y="308.79077"
        id="text7813"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/simon/safe/dev/nginx-content-server/doc/schematic.png"
+       inkscape:export-filename="/home/simon/safe/dev/uucs/doc/schematic.png"
        inkscape:export-xdpi="119.96429"
        inkscape:export-ydpi="119.96429"><tspan
          sodipodi:role="line"
