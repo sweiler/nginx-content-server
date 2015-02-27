@@ -28,7 +28,7 @@ only talking with the nginx. This is what makes the server so fast, since all re
 hard disk.
 
 
-![Schematic of a typical use case](doc/schematic.svg)
+![Schematic of a typical use case](doc/schematic.png)
 
 Get started
 -----------
