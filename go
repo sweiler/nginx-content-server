@@ -16,25 +16,25 @@ class GoScript < Thor
   method_option :cache, :desc => 'Use cached state for building the container.', :type => :boolean, :default => true
   def build
     if options[:cache]
-      exec 'docker build -t sweiler/nginx-content-server .'
+      exec 'docker build -t sweiler/uucs .'
     else
-      exec 'docker build --no-cache=true -t sweiler/nginx-content-server .'
+      exec 'docker build --no-cache=true -t sweiler/uucs .'
     end
   end
   
   desc 'up [--no-volumes]', 'Launch the server.'
   method_option :volumes, :desc => 'Link volumes to host for development.', :type => :boolean, :default => true
   def up
-    image_test = `docker images | grep 'nginx-content-server'`
+    image_test = `docker images | grep 'sweiler/uucs'`
     if image_test.length < 20
-      puts 'No sweiler/nginx-content-server image found. Run ./go build first.'
+      puts 'No sweiler/uucs image found. Run ./go build first.'
       exit
     end
     
     launch_redis
-    exists_container = `docker ps -a | awk '{print $2}' | grep 'nginx-content-server'`.strip
+    exists_container = `docker ps -a | awk '{print $2}' | grep 'uucs-web'`.strip
     if exists_container.length > 10
-      simple_start = `docker start nginx-content-server`
+      simple_start = `docker start uucs-web`
       if $?.success?
         puts '[OK]  Server started using old container.'
         exit
@@ -43,9 +43,9 @@ class GoScript < Thor
     
     if options[:volumes]
       workingdir = `pwd`.strip
-      id = `docker run -d -p 8080:8080 -p 8081:80 -v #{workingdir}/admin_port:/app/admin_port --name nginx-content-server --link nginx-content-redis:redis -i sweiler/nginx-content-server`
+      id = `docker run -d -p 8080:8080 -p 8081:80 -v #{workingdir}/admin_port:/app/admin_port --name uucs-web --link uucs-redis:redis -i sweiler/uucs`
     else
-      id = `docker run -d -p 8080:8080 -p 8081:80 --name nginx-content-server --link nginx-content-redis:redis -i sweiler/nginx-content-server`
+      id = `docker run -d -p 8080:8080 -p 8081:80 --name uucs-web --link uucs-redis:redis -i sweiler/uucs`
     end
     
     puts '[OK] Server started, created a new container.'
@@ -54,14 +54,14 @@ class GoScript < Thor
   desc 'stop [--redis]', 'Stops the server.'
   method_option :redis, :desc => 'Stop redis too. This invalidates all tokens.', :type => :boolean, :default => false
   def stop
-    exists_container = `docker ps -a | awk '{print $2}' | grep 'nginx-content-server'`.strip
+    exists_container = `docker ps -a | awk '{print $2}' | grep 'sweiler/uucs'`.strip
     if exists_container.length > 10
-      `docker stop nginx-content-server`
+      `docker stop uucs-web`
     end
     if options[:redis]
-      exists_redis = `docker ps -a | grep 'nginx-content-redis'`.strip
+      exists_redis = `docker ps -a | grep 'uucs-redis'`.strip
       if exists_redis.length > 10
-        `docker stop nginx-content-redis`
+        `docker stop uucs-redis`
       end
     end
     
@@ -69,7 +69,7 @@ class GoScript < Thor
   
   desc 'nuke', 'Removes the current container. ALL DATA LOST IF NOT BACKED UP!'
   def nuke
-    exec 'docker rm -f nginx-content-server'
+    exec 'docker rm -f uucs-web'
   end
   
   private
@@ -117,8 +117,8 @@ class GoScript < Thor
   end
   
   def launch_redis
-    redis_created = `docker ps -a | grep 'nginx-content-redis' | awk '{print $1}'`.strip
-    redis_running = `docker ps | grep 'nginx-content-redis' | awk '{print $1}'`.strip
+    redis_created = `docker ps -a | grep 'uucs-redis' | awk '{print $1}'`.strip
+    redis_running = `docker ps | grep 'uucs-redis' | awk '{print $1}'`.strip
     if redis_created.length > 5
       if redis_running == redis_created
         puts '[OK]  Redis running'
@@ -132,7 +132,7 @@ class GoScript < Thor
         end
       end
     else
-      id = `docker run -d --name nginx-content-redis -i redis:latest`.strip
+      id = `docker run -d --name uucs-redis -i redis:latest`.strip
       if id.length != 64
         puts "[ERROR]  Creation of redis failed: #{id}"
         exit
