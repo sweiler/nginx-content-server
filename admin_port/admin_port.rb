@@ -11,6 +11,9 @@ class AdminPort < Sinatra::Base
 	end
 	
 	post '/files/:filename/:obfuscation' do
+	  response.headers['Access-Control-Allow-Origin'] = '*'
+	  response.headers['Access-Control-Allow-Methods'] = 'GET, PUT, POST, DELETE, OPTIONS'
+	  response.headers['Access-Control-Max-Age'] = '1000'
 		token = params[:token]
     if token.nil?
       answer = {:ok => false, :msg => 'You must provide an access token!'}
@@ -35,7 +38,7 @@ class AdminPort < Sinatra::Base
       f.write(params[:file][:tempfile].read)
     end
     r.del "files:#{filename}"
-    answer = {:ok => true, :msg => 'File successfully uploaded'}
+    answer = {:ok => true, :msg => 'File successfully uploaded', :obfuscation => params[:obfuscation]}
     return (JSON.generate answer) + "\n"
 	end
 	
